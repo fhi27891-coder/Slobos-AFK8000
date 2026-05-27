@@ -1,7 +1,7 @@
 {
-  "name": "opkiller2",
+  "name": "copup",
   "bot-account": {
-    "username": "OPkiller2",
+    "username": "copup",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "opkiller290"
+      "password": "copup55290"
     },
     "anti-afk": {
       "enabled": true,
@@ -40,14 +40,14 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": false,
+    "enabled": true,
     "circle-walk": {
       "enabled": true,
-      "radius": 10,
-      "speed": 1500
+      "radius": 20,
+      "speed": 800
     },
     "look-around": {
-      "enabled": false,
+      "enabled": true,
       "interval": 5000
     },
     "random-jump": {
