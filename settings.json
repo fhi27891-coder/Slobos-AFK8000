@@ -31,7 +31,7 @@
       "repeat": false,
       "repeat-delay": 200,
       "messages": [
-        "ber jong buy item so say /ah"
+        "hi"
       ]
     },
     "chat-log": true,
@@ -40,14 +40,14 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
       "enabled": true,
       "radius": 20,
       "speed": 800
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
@@ -80,6 +80,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
