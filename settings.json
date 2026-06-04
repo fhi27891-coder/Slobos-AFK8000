@@ -1,7 +1,7 @@
 {
-  "name": "copup",
+  "name": "toolss",
   "bot-account": {
-    "username": "copup",
+    "username": "toolss",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "copup55290"
+      "password": "copup5529kk0"
     },
     "anti-afk": {
       "enabled": true,
