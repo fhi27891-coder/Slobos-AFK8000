@@ -42,7 +42,7 @@
   "movement": {
     "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 20,
       "speed": 800
     },
