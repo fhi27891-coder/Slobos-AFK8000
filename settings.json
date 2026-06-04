@@ -1,7 +1,7 @@
 {
-  "name": "copup",
+  "name": "toolss",
   "bot-account": {
-    "username": "copup",
+    "username": "toolss",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "copup55290"
+      "password": "copup5529kk0"
     },
     "anti-afk": {
       "enabled": true,
@@ -42,7 +42,7 @@
   "movement": {
     "enabled": false,
     "circle-walk": {
-      "enabled": false,
+      "enabled": true,
       "radius": 20,
       "speed": 800
     },
@@ -57,10 +57,10 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": false,
+    "combat": true,
     "beds": false,
-    "chat": false,
-    "console-commands": false
+    "chat": true,
+    "console-commands": true
   },
   "combat": {
     "attack-mobs": false,
