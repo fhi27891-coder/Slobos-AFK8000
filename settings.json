@@ -23,8 +23,8 @@
       "password": "copup5529kk0"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
@@ -42,7 +42,7 @@
   "movement": {
     "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 20,
       "speed": 800
     },
@@ -56,15 +56,15 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
-    "combat": true,
+    "avoidMobs": false,
+    "combat": false,
     "beds": false,
-    "chat": true,
-    "console-commands": true
+    "chat": false,
+    "console-commands": false
   },
   "combat": {
     "attack-mobs": false,
-    "auto-eat": true
+    "auto-eat": false
   },
   "beds": {
     "pick-up-day": false,
